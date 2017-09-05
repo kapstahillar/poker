@@ -145,8 +145,6 @@ class Game {
         askForAdditionalBets();
     }
 
-
-
     /**
      * Checks if players chip count is not 0 and then asks player for another bets
      * in addition to blind bet. If chip count is 0 then skips asking for bets and
